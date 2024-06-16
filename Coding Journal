@@ -1,1 +1,131 @@
+Coding Journal -Scientific Calculator using TKinter
+
+
+Date:
+Friday May 24, 2024
+Today’s Goal
+Wire Frame for TKinter Scientific calculator
+Setting The main frame 
+Displaying Buttons
+Adding Logic 
+Evaluating Simple Math Expressions
+Successes
+Wire Frame for TKinter Scientific calculator
+Setting The main frame 
+Displaying Buttons
+Adding Logic 
+Evaluating Simple Math Expressions
+List problems and describe attempted solutions*
+
+(sources go here)
+Puting Entry for numbers in a function of its own
+Done using one single function that creates buttons according to rows and columns
+Evaluating the expression 
+Converting ‘x’ and ‘÷’ to ‘*’ and “/”  and calling the eval method to calculate it
+Adding logic to buttons 
+Since all buttons were created using  a single function two different functions were created ‘evaluate_exp’ and “handle_buttons’ the handle button functions handles the input in such a way it does not raise an error when calculating the whole expression, the ‘evaluate_exp” calculates the final result
+
+
+Lessons learned
+The same program can be done in many different ways
+The  program infrastructure varies from programmer to programmer.
+Isolating each function and its functionality and then creating a function to handle them is better than putting everything in __init__ function.
+THE EVAL() METHOD.
+THE ISDIGIT() METHOD
+Creative Ideas
+Add a Dice Roller, Add different unit(eg.. radian/degree), Add Trig Calculations
+Questions still unanswered
+
+Adding functionality to sin cos and tan buttons
+
+
+Date:
+Friday May 31, 2024
+Today’s Goal
+Adding Functionality to buttons
+Updating User Experience/ GUI Looks
+Interest Calculator
+Successes
+Interest Calculator
+Bug fixes 
+
+
+List problems and describe attempted solutions*
+
+(sources go here)
+1)The pi symbol was not being evaluated.
+= math.pi() 
+2)Factorials were returning errors.
+= using the math module
+3)Switching to a different window 
+A function that uses the Toplevel 
+
+
+Lessons learned
+Math module can handle a lot of mathematical sides of the program 
+Creative Ideas
+Bar Chart for interest growth over years
+Questions still unanswered
+
+
+
+
+
+
+
+
+Date:
+Tuesday June 4, 2024
+Today’s Goal
+Testing For Bugs
+Implementing Graphs
+Changing the GUI for more user friendly look
+
+
+Successes
+Implementing Graphs
+Changing the GUI for more user friendly look
+List problems and describe attempted solutions*
+
+(sources go here)
+Bugs fixed eg(Button placement, Colors,Button Logic)
+Graphs were implemented using matplotlib
+Lessons learned
+1)matplotplib bar graph plottting
+Creative Ideas
+
+
+Questions still unanswered
+
+
+
+
+
+Date:
+Friday June 7, 2024
+Today’s Goal
+Write Reflection
+Optimize Code 
+Clear and Understandable comments
+Code Readability
+Making Code Reusable 
+Successes
+Write Reflection
+Optimize Code 
+Clear and Understandable comments
+Code Readability
+Making Code Reusable 
+List problems and describe attempted solutions*
+
+(sources go here)
+
+
+Lessons learned
+Documenting code in a project is very important
+Creative Ideas
+regular contribution entry field to the interest calculations and see growth
+Questions still unanswered
+How to add a regular contribution entry field to the interest calculations and see growth 
+
+
 
