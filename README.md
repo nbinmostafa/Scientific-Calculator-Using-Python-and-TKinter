@@ -1,4 +1,4 @@
-Calculator Using TKinter
+Calculator Using TKinter(High-School Project)
 By Nafi Bin Mostafa.
 
 The initial idea behind this project was to build something that will have a real world application.
