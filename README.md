@@ -1,12 +1,27 @@
-Calculator Using TKinter(High-School Project)
-By Nafi Bin Mostafa.
+🧮 Calculator using Tkinter – by Nafi Bin Mostafa
 
-The initial idea behind this project was to build something that will have a real world application.
-After researching other projects on github, using Tkinter, the idea of a calculator came about.
-Initially starting out I faced a multitude of problems, some of them include, user information not being entered correctly, evaluation of mathematical expressions returning error,switching  window for an investment calculator not working properly.
-All of these problems were overcome by strategic planning and researching online resources.
-Since this calculator is one of my biggest projects a lot of dedicated hours of the day need to be put into it.
-Starting out I barely had mapped how the calculator  was going to look, as I went on building the project, ideas for making the calculator better would just come to me. 
-The point to take from here is that when building projects it's best to just start and then do the planning along the way. Another huge problem I faced was my unfamiliarity with matplotlib.
-I have heard a lot about it before but I did not have any experience with this library.
-In conclusion It was a very amazing experience using TKinter and Matplotlib to create some fun visuals. I am excited to learn more about data and data manipulation during my post-secondary years.
+## Overview
+This project began with a simple goal: to build something practical using Python. After browsing similar Tkinter-based projects on GitHub, I decided to create a calculator—not just a basic one, but one with real-world utility, including features like an investment calculator and visual representations using Matplotlib.
+
+##Project Journey
+- At the start, I had no clear roadmap. I dove in headfirst and encountered several challenges:
+
+- User input handling: Managing valid mathematical expressions and preventing input errors.
+
+- Expression evaluation: Making sure calculations worked as expected.
+
+- Multi-window logic: Switching between the main calculator and the investment calculator was tricky.
+
+- Learning Matplotlib: I had no prior experience with it, so visualizing data was a whole new challenge.
+
+Every problem I faced pushed me to research, plan better, and explore new libraries. As I kept building, new ideas emerged organically. This taught me a key lesson: Start building first—refinement and creativity follow.
+
+## Tools & Technologies
+- Python
+
+- Tkinter – For the GUI
+
+- Matplotlib – For data visualization (used in the investment calculator)
+
+## Key Takeaways
+This was one of my most ambitious projects in high school. It taught me problem-solving, persistence, and how powerful simple tools like Tkinter and Matplotlib can be. I’m now even more excited to dive deeper into programming, especially in data and UI development, in my post-secondary journey.
